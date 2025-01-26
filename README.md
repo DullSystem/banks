@@ -31,5 +31,5 @@
 - Регулярно проводить опросы и исследования среди клиентов для выявления их потребностей и предпочтений.
 - Сотрудничать с партнёрами и предлагать совместные акции и скидки для привлечения и удержания клиентов.
 ## Построена презентация для отдела маркетинга:
-Презентация: <https://drive.google.com/file/d/1Nh_GYxj4yl0r13Guwjfb5jlOS8gx28h_/view?usp=drive_link>
+## Презентация: <a href = "https://drive.google.com/file/d/1Nh_GYxj4yl0r13Guwjfb5jlOS8gx28h_/view?usp=drive_link">презентация онлайн</a>
 ## Используемые библиотеки: `pandas, numpy, scipy, matplotlib, seaborn, plotly`
